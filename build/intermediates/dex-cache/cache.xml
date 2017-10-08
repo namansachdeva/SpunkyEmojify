@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_bede3fbf2397238e5bc03f308bce261bac3f85c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_950cb73f6187c70a1cf3246b41c2266eb6f9b6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_bac266d209007000904d0dbb4755a2c26091f4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.4.2_9ff0fe02a9a1e10f36cacee0c30194da844f8b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_1a1a532377b440d1b2e3fce68e6debb182bad033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e9e9012a78b511275f0882e125bf2e7d35a1c34">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-common-11.4.2_b1e6182f61023c2d4e69beb14e622841a0ea5ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_81a88997023aedec2e78163839ee4d8411214442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.4.2_6df303f25a8c2b42bd94a41516b35cd2b48e9049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_c167b8de5a1574a3d29a82affac3bd3c1c52a1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3435bd5e3f8cf1106e22fb204b4ad8bf6f8a7dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_ab69152555f9dae60c4322b04cd224e3530e479a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_610368dff47d75053d6f7bcd2f1c18754a7108da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_a98da85e6fdec91c04cd6aad60c854c9149a3d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.4.2_a3174d0f949a5ae50f9e623f71c0273e867e424e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_4c29c901b5b8a017f7ee6d47e3712946f79d6384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fe52eb7a638724583586c86887461f772edf6c6">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-11.4.2_5782e508736e2c96cfbc1ea7fc22a4c4ee71e525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_808da8c4c71819a03680791eb375192e4bb13f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\naman\OneDrive\Documents\AdvancedAndroid_Emojify\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_d90c401579dbb52bb02990524f613749854fcbff.jar" />
+    </item>
+
+</items>
